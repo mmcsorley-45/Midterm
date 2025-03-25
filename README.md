@@ -1,6 +1,6 @@
 # Midterm
 
-1. create a clone of the repository using command git clone https://github.com/mmcsorley-45/Midterm.git
+1. create a clone of the repository using command <git clone https://github.com/mmcsorley-45/Midterm.git>
 2. open the repository 
 3. go to terminal and type command  <pip install -r requirements.txt>
 4. next go under the midterm folder in the repository and go to the file: run.py
