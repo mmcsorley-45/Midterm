@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Greeting</title>
+</head>
+<body>
+ {% if username == username %}
+    <h1>Hello, {{ username.upper() }}!</h1>
+    <h2>School email: {{username}}@kean.edu</h2>
+{% else %}
+    <h1>Hi, Anonymous!</h1>
+{% endif %}
+</body>
+</html>
